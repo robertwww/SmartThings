@@ -14,7 +14,7 @@
  *
  */
 metadata {
-	definition (name: "xiaomi-zigbee-button", namespace: "wengrh", author: "wengrh") {
+	definition (name: "Xiaomi Zigbee Button", namespace: "wengrh", author: "wengrh") {
 		capability "Actuator"
 		capability "Battery"
 		capability "Button"

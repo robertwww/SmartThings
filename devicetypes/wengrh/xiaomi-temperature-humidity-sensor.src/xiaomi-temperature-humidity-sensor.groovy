@@ -1,5 +1,5 @@
 /**
- *  xiaomi-temperature-humidity-sensor
+ *  Xiaomi Temperature & Relative Humidity Sensor
  *
  *  Copyright 2017 wengrh
  *
@@ -14,7 +14,7 @@
  *
  */
 metadata {
-	definition (name: "xiaomi-temperature-humidity-sensor", namespace: "wengrh", author: "wengrh") {
+	definition (name: "Xiaomi Temperature Humidity Sensor", namespace: "wengrh", author: "wengrh") {
 		capability "Battery"
 		capability "Health Check"
 		capability "Relative Humidity Measurement"

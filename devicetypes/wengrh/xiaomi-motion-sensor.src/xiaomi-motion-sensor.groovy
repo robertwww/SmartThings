@@ -1,5 +1,5 @@
 /**
- *  Xiaomi-Motion-Sensor
+ *  Xiaomi Motion Sensor
  *
  *  Copyright 2017 wengrh
  *
@@ -17,7 +17,7 @@
 import physicalgraph.zigbee.clusters.iaszone.ZoneStatus
 
 metadata {
-	definition (name: "xiaomi-motion-sensor", namespace: "wengrh", author: "wengrh") {
+	definition (name: "Xiaomi Motion Sensor", namespace: "wengrh", author: "wengrh") {
 		capability "Battery"
 		capability "Configuration"
 		capability "Health Check"
